@@ -113,7 +113,12 @@ body{
   border-image-slice: 70;
 }
 
-
+#bibliography {
+    float: center;
+    padding: 20px 40px 20px 40px;
+    margin: 20px 200px 20px 200px;
+  
+  }
 
 #absolute {
   position: absolute;
