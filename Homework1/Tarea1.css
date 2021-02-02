@@ -1,0 +1,18 @@
+header > article > img{
+    float: left;
+}
+header > article > nav >ul > *{
+    display: inline-table;
+    padding: 5 px;
+    
+}
+header > article > nav > ul:first-child {
+    padding-left:30%;
+}
+main > article:first-child{
+    text-align: center;
+}
+main>article:nth-child(2){
+    color: brown;
+}
+    
