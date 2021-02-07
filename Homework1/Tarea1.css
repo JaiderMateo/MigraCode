@@ -9,10 +9,14 @@ header > article > nav >ul > *{
 header > article > nav > ul:first-child {
     padding-left:30%;
 }
-main > article:first-child{
+main > article>h1:first-child{
     text-align: center;
 }
 main>article:nth-child(2){
     color: brown;
+}
+main{
+    width: 90%;
+    margin:auto;
 }
     
